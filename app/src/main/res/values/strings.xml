@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="add_note">Add note</string>
+    <string name="app_name">NotesList</string>
+    <string name="back">Back</string>
+    <string name="delete">Delete</string>
+    <string name="delete_all">Delete all</string>
+    <string name="delete_note">Delete note</string>
+    <string name="dialog_confirm_button">OK</string>
+    <string name="dialog_dismiss_button">CANCEL</string>
+    <string name="dialog_text">All notes will be deleted from database completely.</string>
+    <string name="dialog_title">Delete all notes?</string>
+    <string name="dropdown_menu_item_content">Content</string>
+    <string name="dropdown_menu_item_title">Title</string>
+    <string name="hint_title">Title</string>
+    <string name="hint_content">Content</string>
+    <string name="notes">Notes</string>
+    <string name="save_note">Save note</string>
+    <string name="snack_bar_action_label">UNDO</string>
+    <string name="snack_bar_message">Note was deleted</string>
+    <string name="sort">Sort</string>
+    <string name="toast_add_edit_message">Title can not be empty</string>
+    <string name="swipe_description">Swipe left to delete</string>
+    <string name="widget_button_text">+ Add note</string>
+    <string name="widget_initial_text">Loading…</string>
+</resources>
